@@ -14,6 +14,10 @@
 - [jCarousel](http://sorgalla.com/jcarousel/)  
 
 
+#### Scroll
+- [jScroll Pane](http://jscrollpane.kelvinluck.com/)
+
+
 ### chart
 - http://www.chartjs.org/		
 - http://www.highcharts.com/	
