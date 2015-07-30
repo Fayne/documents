@@ -1,4 +1,4 @@
-# Angular
+### Angular
 - [资源汇总](https://github.com/jmcunningham/AngularJS-Learning)
 - [Egghead](https://egghead.io)	
 - [Angular进阶视频教程](http://campus.codeschool.com/courses/shaping-up-with-angular-js/intro)
@@ -9,7 +9,7 @@
 - [UI-Router](https://www.youtube.com/watch?v=QETUuZ27N0w)
 - [Form Validation](http://www.youtube.com/watch?v=t6XUPVmlYbY)
 
-# chart
+### chart
 http://www.chartjs.org/		
 http://www.highcharts.com/	
 http://c3js.org/	
