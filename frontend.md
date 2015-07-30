@@ -9,6 +9,11 @@
 - [UI-Router](https://www.youtube.com/watch?v=QETUuZ27N0w)
 - [Form Validation](http://www.youtube.com/watch?v=t6XUPVmlYbY)
 
+### Effect
+#### Carousel
+- [jCarousel](http://sorgalla.com/jcarousel/)  
+
+
 ### chart
 - http://www.chartjs.org/		
 - http://www.highcharts.com/	
