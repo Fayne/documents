@@ -6,5 +6,10 @@
 - [Deploy Drupal with Capistrano](http://www.58bits.com/blog/2013/03/23/deploying-drupal-with-capistrano)
 - [Fabric](http://www.fabfile.org)
 
+### Git
+- [Git flow](http://danielkummer.github.io/git-flow-cheatsheet)
+- [Git submodule](http://blog.joncairns.com/2011/10/how-to-use-git-submodules/)
+- [Git submodule官方手册](http://git-scm.com/book/en/v2/Git-Tools-Submodules)
+
 ### Videos
 - [综合](http://www.lynda.com)  
