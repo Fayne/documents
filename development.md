@@ -11,5 +11,9 @@
 - [Git submodule](http://blog.joncairns.com/2011/10/how-to-use-git-submodules/)
 - [Git submodule官方手册](http://git-scm.com/book/en/v2/Git-Tools-Submodules)
 
+### Docker
+- [Docker介绍(视频)](https://www.youtube.com/watch?v=Q5POuMHxW-0)
+- [Docker使用方法(视频)](https://www.youtube.com/watch?v=AIXtU-GBrTM)
+
 ### Videos
 - [综合](http://www.lynda.com)  
