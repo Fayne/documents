@@ -1,3 +1,9 @@
+### Ember
+- [入门介绍](http://developer.51cto.com/art/201312/425324.htm)
+- [与其它前端框架的对比](http://www.linuxidc.com/Linux/2015-03/114453.htm)
+- [中文教程](www.emberjs.cn)
+
+
 ### Angular
 - [资源汇总](https://github.com/jmcunningham/AngularJS-Learning)
 - [Egghead](https://egghead.io)	
