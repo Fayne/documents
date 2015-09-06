@@ -13,6 +13,7 @@
 
 ### Gulp
 - [Gulp for Beginners](https://css-tricks.com/gulp-for-beginners/)
+- [Automate Your Tasks Easily with Gulp.js](https://scotch.io/tutorials/automate-your-tasks-easily-with-gulp-js)
 
 ### Docker
 - [Docker介绍(视频)](https://www.youtube.com/watch?v=Q5POuMHxW-0)
