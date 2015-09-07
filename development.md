@@ -21,6 +21,7 @@
 
 ### Books
 - [IT ebooks](http://www.it-ebooks.info/)
+- [The Twelve Factors](http://12factor.net/)
 
 ### Videos
 - [综合](http://www.lynda.com)  
