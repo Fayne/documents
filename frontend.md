@@ -41,5 +41,5 @@
 - [免费下载模板](http://www.themelock.com/)
 
 ### Utils
-- [Ampersand.js]http://ampersandjs.com
+- [Ampersand.js](http://ampersandjs.com)
 - [Underscore](http://underscorejs.org)
