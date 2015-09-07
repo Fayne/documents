@@ -42,4 +42,4 @@
 
 ### Utils
 - [Ampersand.js]http://ampersandjs.com
-- [Underscore](http://underscorejs.org/)
+- [Underscore](http://underscorejs.org)
