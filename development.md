@@ -1,5 +1,6 @@
 ### Deployment
 - [Capistrano](http://capistranorb.com/)
+- [Capistrano::DrupalDeploy](https://github.com/capistrano/drupal-deploy/)
 - [Deploy Drupal with Capistrano](http://www.metaltoad.com/blog/capistrano-drupal-deployments-made-easy-part-1)
 - [Deploy Drupal with Capistrano(Video)](https://www.youtube.com/watch?v=nDrxmmqC64g)
 - [Deploy web with Capistrano](http://www.webdesignermag.co.uk/tutorials/deploying-static-sites-and-web-apps-with-capistrano)
