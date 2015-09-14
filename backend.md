@@ -7,7 +7,8 @@
 - [如何插入js](https://www.drupal.org/node/756722)  
 - [多语言网站](https://www.drupalgardens.com/documentation/language/multiple)  
 - [自定义注册](https://www.youtube.com/watch?v=XzeTGGUPpzY)  
-- [Entity API](http://www.trellon.com/content/blog/creating-own-entities-entity-api)  
+- [Entity API](http://www.trellon.com/content/blog/creating-own-entities-entity-api)
+- [Building REST web services with Drupal 7](http://mattkorostoff.com/article/building-rest-web-services-with-drupal-7)
 
 ### Nodejs
 - [loopback](http://loopback.io/)
