@@ -1,3 +1,8 @@
+### Laravel
+- [Laracasts](https://laracasts.com)
+- [Dingo API](https://github.com/dingo/api)
+- [Cachet](https://github.com/cachethq/Cachet)
+
 ### Drupal
 - [Form API](https://api.drupal.org/api/drupal/developer!topics!forms_api_reference.html/7) 
 - [手动配置cron](https://www.drupal.org/node/23714)
