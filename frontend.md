@@ -14,6 +14,7 @@
 - [Angular进阶教程(视频+代码)](https://thinkster.io/angulartutorial/a-better-way-to-learn-angularjs/)
 - [UI-Router](https://www.youtube.com/watch?v=QETUuZ27N0w)
 - [Form Validation](http://www.youtube.com/watch?v=t6XUPVmlYbY)
+- [Angular Material](https://material.angularjs.org)
 
 ### Effect
 #### Carousel
