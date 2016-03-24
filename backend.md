@@ -2,6 +2,7 @@
 - [Laracasts](https://laracasts.com)
 - [Dingo API](https://github.com/dingo/api)
 - [Cachet](https://github.com/cachethq/Cachet)
+- [SQL DEBUG](https://scotch.io/tutorials/debugging-queries-in-laravel)
 
 ### Drupal
 - [Form API](https://api.drupal.org/api/drupal/developer!topics!forms_api_reference.html/7) 
